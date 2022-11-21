@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+!(url[URL:https://www.codewars.com/users/Tr0nGuy/badges/large])
+
 <!--
 **TronGuy/TronGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
