@@ -12,7 +12,7 @@
   </div>
 <h2></h2>
       
-### Tecnologias que eu utilizo
+### Tecnologias que utilizo
 <div style="display:inline-block;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -27,8 +27,10 @@
 <h2>Codewars</h2>
 
 Participo da comunidade do CodeWars voltada para o aumento das habilidades de codificação por meio
-da resolução de problemas desde os mais básicos até os mais complexos. Visite as minhas soluçõs clicando no [Link](https://www.codewars.com/users/Tr0nGuy).
+da resolução de problemas desde os mais básicos até os mais complexos. Visite as minhas soluçõs clicando no ->[Link](https://www.codewars.com/users/Tr0nGuy)<-
 
 ![image](https://www.codewars.com/users/Tr0nGuy/badges/large)
+<h1></h1>
 
-
+<h3>Redes Sociais</h3>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
