@@ -2,7 +2,7 @@
 <h4>Sobre mim</h4>
  ○ Apaixonado por tecnologia desde a mais tenra idade<br>
  ○ Apreciador da cultura pop e animes <br>
- ○ Gamer nas horas vagas
+ ○ Gamer nas horas vagas <br>
  ○ Eterno estudante
 <h1></h1>
 <br>
