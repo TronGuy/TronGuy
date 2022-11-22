@@ -23,5 +23,12 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img height="150" width="250" align="right" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166   /raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">  
 </div>
+<br/><br/>
+<h2>Codewars</h2>
 
-### 
+Participo da comunidade do CodeWars voltada para o aumento das habilidades de codificação por meio
+da resolução de problemas desde os mais básicos até os mais complexos. Visite as minhas soluçõs clicando no [Link](https://www.codewars.com/users/Tr0nGuy).
+
+![image](https://www.codewars.com/users/Tr0nGuy/badges/large)
+
+
