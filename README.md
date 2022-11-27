@@ -31,4 +31,4 @@ da resolução de problemas desde os mais básicos até os mais complexos. Visit
 
 ![image](https://www.codewars.com/users/Tr0nGuy/badges/large)
 <h1></h1>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <a href="https://www.linkedin.com/in/luizcontato07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
