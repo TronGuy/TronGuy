@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img height="150" width="160" align="right" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166   /raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">  
+  <img height="150" width="200" align="right" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166   /raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">  
 </div>
 <br/><br/>
 <h2>Codewars</h2>
