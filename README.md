@@ -1,9 +1,9 @@
 ## Olá, seja bem-vindo ao meu github! 👋
 <h4>Sobre mim</h4>
  ○ Apaixonado por tecnologia<br>
- ○ Apreciador da cultura pop e animes <br>
+ ○ Apreciador da cultura pop em geral <br>
  ○ Gamer nas horas vagas <br>
- ○ Eterno estudante
+ ○ Um eterno aprendiz de feiticeiro
 <h1></h1>
 <br>
   <div>
