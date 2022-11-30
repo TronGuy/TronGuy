@@ -3,7 +3,7 @@
  ○ Apaixonado por tecnologia<br>
  ○ Apreciador da cultura pop em geral <br>
  ○ Gamer nas horas vagas <br>
- ○ Um eterno aprendiz de feiticeiro
+ ○ Eterno aprendiz de feiticeiro
 <h1></h1>
 <br>
   <div>
